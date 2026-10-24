@@ -1,0 +1,6 @@
+{
+  "name": "Quantum State Visualizer",
+  "description": "Interactive educational single-qubit quantum simulator with 3D Bloch Sphere, matrix transformations, complex probability amplitudes, and guided experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
